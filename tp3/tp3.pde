@@ -1,3 +1,4 @@
+//https://github.com/Mati22343/ipmi-1/tree/tprec
 PImage imagenReferencia;
 
 float espaciadoLinea = 26;  // Espaciado de línea
